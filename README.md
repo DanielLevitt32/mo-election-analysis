@@ -1,1 +1,1 @@
-<img src="/Missouri-Election-Analysis/mo-election-analysis.jpg" alt="missouri-election-analysis link">
+<img src="/images/mo-election-analysis.jpg" alt="missouri-election-analysis link">
