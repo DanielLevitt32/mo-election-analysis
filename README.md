@@ -4,4 +4,4 @@ Donald Trump swept to victory in the 2016 election with 306 Electoral College vo
 
 Donald Trump took Missouri by a 16-point margin, the largest by a Republican since Bill Clinton won the state in 1996. Trump dominated all but three counties and St. Louis City, and it wasn't ever close. The race for the U.S. senate was far closer than for president. In the weeks prior to the election, Jason Kander crept closer and closer to Roy Blunt in the polls, but ended up falling short, as Blunt took the seat by three percentage points. Looking at the results map, however, it didn't look as close. Eric Greitens and Chris Koster's race for Missouri governor was a six-point victory for Greitens, and the result map looked remarkably similar to the race for governor.
 
-<img src="img/mo-analysis2016">
+<img src="images/mo-analysis2016.png">
